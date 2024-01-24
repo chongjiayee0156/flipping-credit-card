@@ -43,8 +43,8 @@ section::after{
 }
 
 section .container{
-    width: 400px;
-    height: 250px;
+    width: 600px;
+    height: 450px;
     z-index: 2;
     position: relative;
     transition: 0.6s;
